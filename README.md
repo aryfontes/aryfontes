@@ -2,8 +2,6 @@
 
 - 👩‍🎓 Atualmente estudando Análise e Desenvolvimento de Sistemas.
 
-- 💛 Ruby on Rails | MySQL | Git | JavaScript 
-
 ### Contato
 
 <a href="https://www.linkedin.com/in/aryna-fontes/" target="_blank"><img src="https://img.shields.io/badge/Linkedin-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
